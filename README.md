@@ -1,5 +1,9 @@
-### Hi there 👋
+### Opa!👋
 
+Sou técnico em desenvolvimento de sistemas;
+Atualmente curso o superior em análise e desenvolvimento de sistemas no Instituto Federal de Santa Catarina;
+Gosto de programar no backend e de mexer com banco de dados;
+Me dou bem com resolução de problemas;
 <!--
 **LemesPedro04/lemespedro04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
